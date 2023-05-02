@@ -1,7 +1,9 @@
 # odin-recip
 To demonstate three different Vietnameses' dishes
+
 How to write the basic boilerplate
 How to create:
+
  1.Paragraphs
  2.Headings
  3.Bold text
